@@ -1,0 +1,177 @@
+body {
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    padding-left: 51px;
+    padding-right: 49px;
+    padding-top: 92px;
+    padding-bottom: 4px;
+    justify-content: space-between;
+}
+
+nav {
+    margin-top: 43px;
+    margin-bottom: 45px;
+    color: #000;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.logo.png {
+    width: 148px;
+    height: 105px;
+    flex-shrink: 0;
+}
+
+.list {
+    list-style: none;
+    padding-top: 5px;
+    margin-top: 0;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24.3px;
+    width: 240px;
+    height: 97px;
+    flex-shrink: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+.baner {
+    background-image: url(lotus-flower.png);
+    background-size: 1440px;
+    width: 1440px;
+    height: 763.939px;
+    background-repeat: no-repeat;
+    margin-top: 96px;
+}
+
+.span-text {
+    display: block;
+    padding-left: 50px;
+}
+
+.sp {
+    padding-inline: 50px;
+}
+
+.left {
+    padding-top: 165px;
+    padding-bottom: 0;
+
+}
+
+.i1-1 {
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 115%;
+    /* 115px */
+    letter-spacing: 30px;
+    text-transform: uppercase;
+
+}
+
+.i1 {
+    display: inline;
+    white-space: nowrap;
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 115%;
+    letter-spacing: 60px;
+    text-transform: uppercase;
+}
+
+.right {
+    padding-top: 0;
+    width: 1340px;
+    text-align: right;
+}
+
+.i3-1 {
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+    /* 100px */
+    letter-spacing: 60px;
+    text-transform: uppercase;
+}
+
+.i3 {
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+    letter-spacing: 30px;
+    text-transform: uppercase;
+}
+
+.center {
+    padding-right: 110px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.i2-1 {
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+    /* 100px */
+    letter-spacing: 30px;
+    text-transform: uppercase;
+}
+
+.i2 {
+    color: #FFF;
+    font-family: Raleway;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%;
+    letter-spacing: 60px;
+    text-transform: uppercase;
+}
+
+.under-baner {}
+
+.ub-text {
+    display: inline;
+    width: 633px;
+    height: 28px;
+    flex-shrink: 0;
+    padding-right: 385px;
+    padding-top: 147px;
+    color: #FFF;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    /* 127.273% */
+    text-transform: uppercase;
+}
+
+.button {
+    display: inline;
+    padding-left: 110px;
+}
